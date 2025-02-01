@@ -1,0 +1,27 @@
+{
+    "model": "ImageBlock",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "YOOO",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "ROUND"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "url": {
+                    "$$ref": "stackbit_asset_id:static:public/images/YOOOO.jpg",
+                    "$$type": "__asset_model"
+                },
+                "altText": "Hero image",
+                "caption": null,
+                "elementId": null
+            },
+            "thumbnail": "images/image-block-yooo-0f7e.png"
+        }
+    ]
+}
