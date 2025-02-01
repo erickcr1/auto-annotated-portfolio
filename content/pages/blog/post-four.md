@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: 'Compartiendo el conocimiento con el mundo. '
+title: 'Compartiendo la informacion y conocimiento con el mundo. '
 colors: colors-a
 date: '2024-02-01'
 author: content/data/team/doris-soto.json
