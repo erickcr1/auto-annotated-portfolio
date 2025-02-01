@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: 'How to Structure and Organize a Next Web or '
+title: How to Structure and Organize a Next Webapp or Project.
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
