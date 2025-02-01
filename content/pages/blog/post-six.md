@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Cómo estructurar yorganizar su próxima aplicación web o proyecto
+title: Cómo estructurar y organizar su próxima webapp. app o proyecto
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
