@@ -65,13 +65,6 @@ bottomSections:
           isRequired: true
           width: 1/2
           type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-          type: EmailFormControl
         - name: Apellido/Lastname
           label: nombre/Name
           hideLabel: true
@@ -79,6 +72,13 @@ bottomSections:
           isRequired: false
           width: 1/2
           type: TextFormControl
+        - name: email
+          label: Email
+          hideLabel: true
+          placeholder: Email
+          isRequired: true
+          width: full
+          type: EmailFormControl
         - name: updatesConsent
           label: Sign me up to recieve my words
           isRequired: false
