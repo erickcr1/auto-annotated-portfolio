@@ -49,6 +49,7 @@ bottomSections:
         justifyContent: center
     showFeaturedImage: true
     showReadMoreLink: true
+    title: post recients
   - type: ContactSection
     backgroundSize: full
     title: Stay up-to-date with my words ✍️
