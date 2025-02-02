@@ -59,14 +59,14 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "https://salastechsolution.netlify.app/info/",
+                "label": "Blog",
+                "url": "/blog",
                 "altText": ""
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
+                "label": "Info",
+                "url": "https://salastechsolution.netlify.app/info/",
                 "altText": ""
             },
             {
