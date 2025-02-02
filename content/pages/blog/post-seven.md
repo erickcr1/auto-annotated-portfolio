@@ -52,7 +52,7 @@ bottomSections:
     title: post recients
   - type: ContactSection
     backgroundSize: full
-    title: Stay up-to-date with my words ✍️
+    title: Manténgase actualizado con las novedades
     colors: colors-f
     form:
       type: FormBlock
