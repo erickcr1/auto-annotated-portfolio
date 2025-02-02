@@ -7,7 +7,7 @@ author: content/data/team/doris-soto.json
 excerpt: 'How to Structure and Organize your Next Webapp,App or Project.'
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image6.jpg
+  url: /images/hire-Mobile-App-developer.png
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
