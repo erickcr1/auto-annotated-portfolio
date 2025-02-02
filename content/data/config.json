@@ -85,12 +85,13 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "+52 322-241-3898",
-            "phoneAltText": "My phone number",
-            "email": "salasalvardoerickfernando@gmail.com",
-            "emailAltText": "My email",
-            "address": "",
-            "addressAltText": "Mérida 157, Centro, 63000 Tepic, Nay"
+            "phoneNumber": "850-123-5021",
+            "phoneAltText": "Phone",
+            "email": "john@doe.com",
+            "emailAltText": "Email",
+            "address": "312 Lovely Street, NY",
+            "addressAltText": "Address",
+            "elementId": ""
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
         "styles": {
