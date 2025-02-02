@@ -61,7 +61,7 @@ bottomSections:
         - name: nombre/Name
           label: nombre/Name
           hideLabel: true
-          placeholder: Last Name
+          placeholder: nombre/Name
           isRequired: false
           width: 1/2
           type: TextFormControl
