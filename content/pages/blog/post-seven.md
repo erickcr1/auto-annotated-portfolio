@@ -2,7 +2,7 @@
 type: PostLayout
 title: Hábitos de los desarrolladores web altamente productivos
 colors: colors-a
-date: '2025-06-10'
+date: '2025-01-10'
 author: content/data/team/doris-soto.json
 excerpt: ''
 featuredImage:
