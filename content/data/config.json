@@ -86,7 +86,7 @@
             "type": "ContactBlock",
             "title": "Contact details",
             "phoneNumber": "850-123-5021",
-            "phoneAltText": "+52 322-241-3898",
+            "phoneAltText": "phone number",
             "email": "john@doe.com",
             "emailAltText": "e mail ",
             "address": "Mérida 157, Centro, 63000 Tepic, Nay",
