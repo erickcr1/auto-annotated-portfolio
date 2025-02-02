@@ -58,18 +58,18 @@ bottomSections:
       type: FormBlock
       elementId: sign-up-form
       fields:
-        - name: nombre/Name
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
         - name: lastName
           label: Last Name
           hideLabel: true
           placeholder: Last Name
           isRequired: false
+          width: 1/2
+          type: TextFormControl
+        - name: nombre/Name
+          label: First Name
+          hideLabel: true
+          placeholder: First Name
+          isRequired: true
           width: 1/2
           type: TextFormControl
         - name: email
