@@ -4,7 +4,7 @@ title: Hábitos de los desarrolladores web altamente productivos
 colors: colors-a
 date: '2024-06-10'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/web.jpeg
