@@ -59,17 +59,17 @@ bottomSections:
       elementId: sign-up-form
       fields:
         - name: nombre/Name
-          label: nombre/Name
-          hideLabel: true
-          placeholder: nombre/Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: nombre/Name
           label: First Name
           hideLabel: true
           placeholder: First Name
           isRequired: true
+          width: 1/2
+          type: TextFormControl
+        - name: nombre/Name
+          label: nombre/Name
+          hideLabel: true
+          placeholder: nombre/Name
+          isRequired: false
           width: 1/2
           type: TextFormControl
         - name: email
