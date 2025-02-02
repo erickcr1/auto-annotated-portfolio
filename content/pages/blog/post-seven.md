@@ -2,7 +2,7 @@
 type: PostLayout
 title: Hábitos de los desarrolladores web altamente productivos
 colors: colors-a
-date: '2025-10-02'
+date: '2025-01-02'
 author: content/data/team/doris-soto.json
 excerpt: ''
 featuredImage:
@@ -52,23 +52,23 @@ bottomSections:
     title: post recients
   - type: ContactSection
     backgroundSize: full
-    title: Stay up-to-date with my words ✍️
+    title: Manténgase actualizado las novedades
     colors: colors-f
     form:
       type: FormBlock
       elementId: sign-up-form
       fields:
-        - name: firstName
+        - name: Apellido/Last name
           label: First Name
           hideLabel: true
-          placeholder: First Name
+          placeholder: Nombre/Name
           isRequired: true
           width: 1/2
           type: TextFormControl
-        - name: lastName
-          label: Last Name
+        - name: Apellido/Lastname
+          label: Apellido/Lastname
           hideLabel: true
-          placeholder: Last Name
+          placeholder: Apellido/Lastname
           isRequired: false
           width: 1/2
           type: TextFormControl
@@ -80,7 +80,7 @@ bottomSections:
           width: full
           type: EmailFormControl
         - name: updatesConsent
-          label: Sign me up to recieve my words
+          label: Sign me up...
           isRequired: false
           width: full
           type: CheckboxFormControl
