@@ -4,7 +4,7 @@
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
-        "isSticky": false,
+        "isSticky": true,
         "title": "Personal",
         "isTitleVisible": true,
         "primaryLinks": [
@@ -38,6 +38,14 @@
                 "label": "GitHub",
                 "url": "https://github.com/netlify-templates",
                 "icon": "github"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/<meta name=\"google-adsense-account\" content=\"ca-pub-9132199630673133\">",
+                "icon": "facebook",
+                "elementId": ""
             }
         ],
         "styles": {
@@ -88,8 +96,20 @@
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
-    }
+    },
+    "defaultMetaTags": [
+        {
+            "type": "MetaTag",
+            "property": "og:title",
+            "content": ""
+        }
+    ]
 }

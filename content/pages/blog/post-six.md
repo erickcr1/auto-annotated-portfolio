@@ -1,14 +1,13 @@
 ---
 type: PostLayout
-title: How to Structure and Organize a Next.js Project 🗂️
+title: Cómo estructurar y organizar su próxima app - web o proyecto.
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
-excerpt: >-
-  More context that may or may not be helpful
+excerpt: 'How to Structure and Organize your Next Webapp,App or Project.'
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image6.jpg
+  url: /images/hire-Mobile-App-developer.png
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
@@ -45,7 +44,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock
