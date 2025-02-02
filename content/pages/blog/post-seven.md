@@ -59,7 +59,7 @@ bottomSections:
       elementId: sign-up-form
       fields:
         - name: lastName
-          label: Last Name
+          label: npmbre/Name
           hideLabel: true
           placeholder: Last Name
           isRequired: false
