@@ -65,14 +65,14 @@
             },
             {
                 "type": "Link",
-                "label": "Contact",
-                "url": "salasalvardoerickfernando@gmail.com",
+                "label": "Blog",
+                "url": "/blog",
                 "altText": ""
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
+                "label": "Contact",
+                "url": "salasalvardoerickfernando@gmail.com",
                 "altText": ""
             },
             {
