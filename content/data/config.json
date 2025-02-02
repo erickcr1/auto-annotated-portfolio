@@ -60,7 +60,7 @@
             {
                 "type": "Link",
                 "label": "Info",
-                "url": "/info",
+                "url": "https://salastechsolution.netlify.app/info/",
                 "altText": ""
             },
             {
