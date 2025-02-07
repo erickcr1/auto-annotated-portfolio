@@ -13,7 +13,8 @@
                 "label": "Info",
                 "url": "/info",
                 "showIcon": true,
-                "icon": "mail"
+                "icon": "mail",
+                "iconPosition": "left"
             },
             {
                 "type": "Link",
