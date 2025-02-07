@@ -13,13 +13,13 @@
                 "label": "Info",
                 "url": "/info",
                 "showIcon": true,
-                "icon": "mail",
+                "icon": "send",
                 "iconPosition": "left"
             },
             {
                 "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
+                "label": "",
+                "url": ""
             },
             {
                 "type": "Link",
@@ -55,6 +55,11 @@
             "self": {
                 "width": "full"
             }
+        },
+        "logo": {
+            "type": "ImageBlock",
+            "url": "/images/YOOOO.jpg",
+            "altText": "Hero image"
         }
     },
     "defaultMetaTags": [
