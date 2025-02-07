@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/salassol.jpg",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
@@ -11,7 +11,10 @@
             {
                 "type": "Link",
                 "label": "Info",
-                "url": "/info"
+                "url": "/info",
+                "showIcon": true,
+                "icon": "mail",
+                "iconPosition": "left"
             },
             {
                 "type": "Link",
@@ -51,58 +54,6 @@
         "styles": {
             "self": {
                 "width": "full"
-            }
-        }
-    },
-    "footer": {
-        "type": "Footer",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "https://salastechsolution.netlify.app/blog",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Info",
-                "url": "https://salastechsolution.netlify.app/info/",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Contact",
-                "url": "salasalvardoerickfernando@gmail.com",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
-            }
-        ],
-        "contacts": {
-            "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "phone number",
-            "email": "john@doe.com",
-            "emailAltText": "e mail ",
-            "address": "Mérida 157, Centro, 63000 Tepic, Nay",
-            "addressAltText": "Address",
-            "elementId": "erick salas"
-        },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
-        "styles": {
-            "self": {
-                "width": "narrow",
-                "padding": [
-                    "pt-16",
-                    "pb-16",
-                    "pr-4",
-                    "pl-4"
-                ]
             }
         }
     },

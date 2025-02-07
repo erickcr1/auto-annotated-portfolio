@@ -118,4 +118,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+socialImage: /images/YOOOO.jpg
 ---
