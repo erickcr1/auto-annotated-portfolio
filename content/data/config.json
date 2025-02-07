@@ -55,6 +55,11 @@
             "self": {
                 "width": "full"
             }
+        },
+        "logo": {
+            "type": "ImageBlock",
+            "url": "/images/YOOOO.jpg",
+            "altText": "Hero image"
         }
     },
     "defaultMetaTags": [
