@@ -30,13 +30,6 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "",
-                "label": "",
-                "url": "",
-                "icon": "github"
-            },
-            {
-                "type": "Social",
                 "label": "Facebook",
                 "altText": "",
                 "url": "/<meta name=\"google-adsense-account\" content=\"ca-pub-9132199630673133\">",
